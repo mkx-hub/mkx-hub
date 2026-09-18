@@ -1,24 +1,31 @@
 # Muhammad Khan
 
-**Computer Science Student · AI Agent & Automation Learner · Data Science Aspirant**
-
-Building a foundation in Computer Science while actively learning AI agents, AI automation and Python through the SMIT AI Agent program — with real projects to show for it.
+**Computer Science Student · AI Agent Engineering Learner**
 
 ---
 
 ## About Me
 
-I am at the beginning of my academic and technical journey. I completed my FSc at Islamia College Peshawar and am now pursuing a BS in Computer Science at Sarhad University.
+I completed my FSc from Islamia College Peshawar and am currently pursuing a BS in Computer Science at Sarhad University.
 
-Alongside my degree, I study AI Agents and AI Automation through SMIT (Saylani Mass IT Training). My approach is simple: learn a technology, build something with it, and publish the project so the learning stays visible.
+Alongside my degree, I am learning AI Agents and AI Automation through SMIT (Saylani Mass IT Training). I learn by studying concepts, building projects, testing them, and publishing what I produce. My current technical direction is Agentic AI / AI Agent Engineering.
 
 ---
 
 ## Current Focus
 
-**AI Agents · AI Automation · Python · Computer Science · Data Science**
+I am currently learning:
 
-I am currently working through agent frameworks and building applied AI projects. My learning path looks like this:
+- Python
+- AI Agents and AI Automation
+- OpenAI Agents SDK
+- Google ADK
+- MCP
+- Multi-agent systems
+- RAG and memory systems
+- Computer Science fundamentals
+
+My overall path looks like one continuous journey:
 
 ```
 Matric
@@ -40,10 +47,10 @@ Own Hedge Fund — Long-Term Vision
 
 ## SMIT Learning Journey
 
-Currently enrolled in the **AI Agent / AI Automation** program at **SMIT (Saylani Mass IT Training)**. My progress through the modules so far:
+I am enrolled in the **AI Agent / AI Automation** program at **SMIT (Saylani Mass IT Training)**. My progress so far:
 
 ### Module 1 — AI & Development Foundations
-*Foundation of my AI-agent and development journey. Covered:*
+*Foundation of my AI-agent and development journey.*
 
 - Introduction to AI
 - n8n — fundamentals and building AI-agent workflows
@@ -57,26 +64,24 @@ Currently enrolled in the **AI Agent / AI Automation** program at **SMIT (Saylan
 - Module 1 project
 
 ### Module 2 — AI Agents & Agent Frameworks
-*Currently learning — exploring these technologies in practice:*
+*Currently learning — exploring these technologies in practice.*
 
 - OpenAI Agents SDK
-- Google Agent Development Kit (Google ADK)
+- Google ADK
 - MCP
 - Multi-agent orchestration
 - Sessions; short-term and long-term memory
 - LangChain
 - LangGraph
-- Middleware
 - RAG and production RAG
 - mem0 and LangMem
 - Practical AI-agent projects
 
 ### Module 3 — Advanced Agent Systems
-*Part of my continuing learning journey:*
+*Part of my continuing learning journey.*
 
 - APIs
 - Databases
-- MCP
 - A2A
 - Agent evaluation
 - Autonomous agents
@@ -91,22 +96,58 @@ Currently enrolled in the **AI Agent / AI Automation** program at **SMIT (Saylan
 ### Banking Session Management
 [`mkx-hub/Banking-Session-Management`](https://github.com/mkx-hub/Banking-Session-Management)
 
-A Python-based banking session management project that taught me security-first development. Built with secure password handling (bcrypt), AES-256-GCM encryption, session tokens with idle and absolute timeouts, session eviction and rejection policies, account lockout, and security-focused logging. Includes a CLI, automated tests, and high test coverage.
+A Python security-focused banking session management project. It covers:
+
+- Password hashing with bcrypt
+- AES-256-GCM encryption
+- Secure session tokens
+- Idle and absolute session timeouts
+- Session limits with eviction and rejection policies
+- Account lockout
+- Security-focused logging
+- CLI with automated testing
 
 ### E-commerce Lead Generation
 [`mkx-hub/E-commerce-Lead-Generation`](https://github.com/mkx-hub/E-commerce-Lead-Generation)
 
-An AI-powered lead-generation project for e-commerce businesses. Uses the OpenAI Agents SDK to research businesses and qualify leads with evidence-based research, lead scoring, and confidence scoring — including AI automation opportunity detection and duplicate detection, and a CLI workflow.
+An AI-powered lead-generation project for e-commerce businesses, built with the OpenAI Agents SDK. It works from publicly available business information and avoids fabricated data, using:
+
+- Evidence-based lead qualification
+- Lead scoring and confidence scoring
+- AI automation opportunity detection
+- Duplicate detection
+- CLI workflow
 
 ---
 
 ## Technical Skills
 
-Honest snapshot of what I study and use, not a claim of mastery:
+Honest snapshot of what I study and use, not a claim of mastery.
 
-- **Languages & tooling:** Python, Git
-- **AI agents & automation:** n8n, OpenAI Agents SDK, Google ADK, Claude Code, MCP
-- **Developer practices:** CLI tools, automated testing, security-focused engineering (bcrypt, AES-256-GCM)
+### Languages & Tools
+- Python
+- Git
+- CLI development
+
+### AI Agents & Automation
+- OpenAI Agents SDK
+- Google ADK
+- n8n
+- MCP
+- Claude Code
+
+### AI Concepts
+- Multi-agent systems
+- RAG
+- Memory systems
+- Agent evaluation
+- Autonomous agents
+
+### Engineering
+- Automated testing
+- Security-focused development
+- bcrypt
+- AES-256-GCM
 
 ---
 
@@ -114,24 +155,15 @@ Honest snapshot of what I study and use, not a claim of mastery:
 
 | Stage | Status |
 | --- | --- |
-| FSc, Islamia College Peshawar | Completed |
-| BS Computer Science, Sarhad University | Currently pursuing |
-| MS Data Science | Planned |
+| FSc — Islamia College Peshawar | Completed |
+| BS Computer Science — Sarhad University | Currently pursuing |
+| MS Data Science | Future goal |
 
 ---
 
-## Current Learning
+## Long-Term Direction
 
-- AI agents and agent frameworks (OpenAI Agents SDK, Google ADK, LangChain)
-- Memory systems, RAG and production RAG
-- Multi-agent orchestration and autonomous agents
-- Data Science, towards an MS in Data Science
-
----
-
-## Long-Term Goals
-
-My long-term ambition is to build my own hedge fund — a goal that connects my interests in technology, AI, data science, automation, financial markets, and quantitative thinking. It is a direction I am working toward, not a position I hold today.
+My long-term direction is to bring together **AI + Data + Financial Technology**, with the eventual ambition of building and running my own hedge fund. That is a future goal — right now I am focused on learning and building the foundation it would take to get there.
 
 ---
 
