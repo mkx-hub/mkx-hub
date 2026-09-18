@@ -21,21 +21,19 @@ Alongside my degree, I study AI Agents and AI Automation through SMIT (Saylani M
 I am currently working through agent frameworks and building applied AI projects. My learning path looks like this:
 
 ```
-FSc
+Matric
 ↓
-BS Computer Science (current)
+FSc — Completed
 ↓
-AI Agents & AI Automation (current, via SMIT)
+Agentic AI Engineering — Current Focus
 ↓
-Google ADK / OpenAI Agents SDK / Agent frameworks
+BS Computer Science — Current
 ↓
-Data Science
+MS Data Science — Future Goal
 ↓
-MS Data Science (planned)
+AI + Data + Financial Technology
 ↓
-Long-term interest in AI + Data + Financial Technology
-↓
-Own hedge fund (long-term ambition)
+Own Hedge Fund — Long-Term Vision
 ```
 
 ---
