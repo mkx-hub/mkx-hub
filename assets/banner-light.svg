@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" role="img" font-family="Segoe UI, system-ui, sans-serif" font-style="normal">
+  <title>Muhammad Khan — Learner on the path to Agentic AI Engineering</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef2fb"/>
+      <stop offset="0.5" stop-color="#f8faff"/>
+      <stop offset="1" stop-color="#e2e8f5"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#93c5fd" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#93c5fd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c4b5fd" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+    <filter id="txtShadow">
+      <feDropShadow dx="0" dy="5" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <style>
+    .orb1 { animation: drift1 16s ease-in-out infinite; }
+    .orb2 { animation: drift2 20s ease-in-out infinite; }
+    .dot  { animation: dotFloat 9s ease-in-out infinite; }
+    .rise { animation: rise 1.4s ease-out both; }
+    .rise2{ animation: rise 1.4s 0.35s ease-out both; }
+    .rise3{ animation: rise 1.4s 0.6s ease-out both; }
+    @keyframes drift1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(70px,-34px); } }
+    @keyframes drift2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-58px,44px); } }
+    @keyframes dotFloat { 0%,100% { transform: translate(0,0); opacity:.35; } 50% { transform: translate(0,-14px); opacity:.8; } }
+    @keyframes rise { from { opacity:0; transform: translateY(18px); } to { opacity:1; transform: translateY(0); } }
+  </style>
+
+  <rect width="1100" height="250" fill="url(#bg)"/>
+  <circle class="orb1" cx="190" cy="120" r="190" fill="url(#glow1)" filter="url(#blur)"/>
+  <circle class="orb2" cx="920" cy="150" r="210" fill="url(#glow2)" filter="url(#blur)"/>
+
+  <circle class="dot" cx="120" cy="60" r="3" fill="#2563eb"/>
+  <circle class="dot" cx="980" cy="70" r="3" fill="#7c3aed" style="animation-delay:.6s"/>
+  <circle class="dot" cx="540" cy="30" r="2.5" fill="#0284c7" style="animation-delay:1.2s"/>
+
+  <text class="rise" x="550" y="120" text-anchor="middle" font-size="64" font-weight="700" fill="url(#titleGrad)" letter-spacing="2" filter="url(#txtShadow)">Muhammad Khan</text>
+  <text class="rise2" x="550" y="172" text-anchor="middle" font-size="28" font-weight="500" fill="#475569" letter-spacing="0.5">Learner on the path to Agentic AI Engineering</text>
+  <text class="rise3" x="550" y="212" text-anchor="middle" font-size="15" fill="#64748b" letter-spacing="4">@mkx-hub</text>
+</svg>
