@@ -1,171 +1,149 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                    MUHAMMAD KHAN — PROFILE README                  ║
-║                                                                      ║
-║  AI Agents • AI Automation • Data Science                           ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Muhammad%20Khan&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Agents%20%7C%20AI%20Automation%20%7C%20Data%20Science&descAlignY=62&descSize=18" width="100%" alt="Header banner reading Muhammad Khan — AI Agents | AI Automation | Data Science" />
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Muhammad%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Agents%20%7C%20AI%20Automation%20%7C%20Data%20Science&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=mkx-hub&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/mkx-hub?label=Followers&style=for-the-badge&color=22D3EE" alt="followers"/>
+
+</div>
+
+<div align="center">
+
+```txt
+┌──(m.khan㉿dev)-[~]
+└─$ whoami
+> Data Science Student | AI Agent Developer | AI Automation Builder
+└─$ status
+> Learning the fundamentals and shipping real AI systems...
+└─$ philosophy
+> "Learn → Build → Test → Improve"
+```
+
+</div>
+
+<div align="center">
+
+### 🤖 AI Agent Developer &nbsp;|&nbsp; 🐍 Python Learner &nbsp;|&nbsp; 🔁 Automation Builder &nbsp;|&nbsp; 📊 Data Science Student
+
+[![GitHub](https://img.shields.io/badge/GitHub-mkx-hub-0B0F19?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkx-hub)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+> I'm a **Data Science student** focused on learning and building practical systems with **AI agents and automation**. My mission is simple: learn the fundamentals, build real projects, test them, and improve continuously.
+
+I'm especially interested in how AI agents can **use tools, communicate with other systems, process information, and automate real-world workflows**. I'm still early in my engineering journey, so this profile documents the things I'm **actually learning and building** — no pretending to be an expert.
+
+```yaml
+Name:         Muhammad Khan
+Location:     Pakistan 🇵🇰
+Role:         Data Science Student
+Focus:        AI Agents | AI Automation | Data Science
+Currently:    Building AI-powered applications & agent workflows
+Learning:     OpenAI Agents SDK, Google ADK, MCP, n8n, Git & GitHub
+Engineering:  Spec-driven development | Test everything | Don't fabricate data
+Motto:        "Learn → Build → Test → Improve"
+GitHub:       https://github.com/mkx-hub
+```
+
+- 🔭 Currently building **AI-powered applications**, **agent workflows**, and **automation systems**
+- 🌱 Deepening expertise in **Python, OpenAI Agents SDK, Google ADK, MCP, and n8n**
+- 👯 Open to collaborating on **AI agent projects, automation workflows & data science work**
+- 💬 Ask me about **AI Agents, AI Automation, Python, Data Science & spec-driven development**
+- 📫 Reach me: [GitHub](https://github.com/mkx-hub)
+- ⚡ Fun fact: My learning loop is **Learn → Build → Test → Improve**, and everything I ship is built from scratch
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, VS Code" />
 
 <br/>
 
-<a href="https://github.com/mkx-hub">
-  <img src="https://komarev.com/ghpvc/?username=mkx-hub&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/mkx-hub?tab=followers">
-  <img src="https://img.shields.io/github/followers/mkx-hub?label=Followers&style=flat-square&color=2563eb" alt="Followers"/>
-</a>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+<img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
 
 </div>
 
 ---
 
-<div align="center">
+### 💼 How I Help / What I Build
 
-### `whoami`
-
-**Data Science Student • AI Agent Developer • AI Automation Builder**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  $ whoami                                                     │
-│  Muhammad Khan                                                │
-│                                                              │
-│  $ focus                                                      │
-│  AI Agents • AI Automation • Data Science                     │
-│                                                              │
-│  $ currently_building                                         │
-│  Practical AI systems and automation workflows                │
-│                                                              │
-│  $ learning                                                    │
-│  Agent frameworks • MCP • n8n • Data Science                   │
-│                                                              │
-│  $ philosophy                                                  │
-│  Learn → Build → Test → Improve                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<a href="https://github.com/mkx-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI+Agents+step+by+step;Exploring+AI+Automation;Learning+Data+Science;Turning+ideas+into+working+software" alt="Typing SVG"/>
-</a>
-
-</div>
+| Domain | What I Do |
+|---|---|
+| 🤖 **AI Agent Development** | Building AI agents that use tools, manage state, call APIs, and do useful work — not just generate text |
+| 🔁 **AI Automation** | Workflow automation with n8n, API integrations, webhooks, and AI-powered pipelines |
+| 📊 **Data Science** | Data analysis, visualization, statistics, and machine learning fundamentals in Python |
+| 🔐 **Security-Conscious Software** | Practical engineering with secure session management, hashing, testing & 100% test coverage |
+| 🏗️ **Clean Engineering** | CLI applications, project architecture, spec-driven development, and reproducible projects |
 
 ---
 
-## 👋 About Me
-
-I'm **Muhammad Khan**, a **Data Science student** focused on learning and building practical systems with **AI agents and automation**.
-
-My current path is simple:
-
-> **Learn the fundamentals → Build real projects → Test them → Improve continuously.**
-
-I'm especially interested in how AI agents can use tools, communicate with other systems, process information, and automate real-world workflows.
-
-I'm still early in my engineering journey, so this profile documents the things I'm **actually learning and building**, rather than pretending to be an expert.
-
----
-
-## 🧠 Current Focus
-
-```yaml
-name: Muhammad Khan
-role: Data Science Student
-focus:
-  - AI Agents
-  - AI Automation
-  - Data Science
-
-currently_learning:
-  - Python
-  - OpenAI Agents SDK
-  - Google Agent Development Kit (ADK)
-  - Model Context Protocol (MCP)
-  - n8n
-  - Git & GitHub
-  - Spec-Driven Development
-
-currently_building:
-  - AI-powered applications
-  - Agent workflows
-  - Automation systems
-  - Python projects
-
-engineering_mindset:
-  - Understand before coding
-  - Build real projects
-  - Test everything
-  - Keep improving
-```
-
----
-
-## 🤖 What I'm Learning
+### 🔥 Flagship Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AI Engineering
+#### 🔐 Banking Session Management
+**Python Session System — Security-Focused**
 
-* AI Agents
-* Agent workflows
-* Tool calling
-* Multi-agent systems
-* Agent memory
-* Sessions & state
-* MCP
-* Agent orchestration
+Password hashing · Secure session tokens · AES-encrypted session storage · Session expiration · Session limits · Account lockout · CLI interface
+
+`Automated Testing` `100% Test Coverage` `Security-First Design`
+
+**Stack:** Python · Hashing · AES · CLI · Pytest
+
+🔗 [View Repo](https://github.com/mkx-hub/Banking-Session-Management)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+#### 🛒 E-commerce Lead Generation
+**AI-Powered Lead Generation & Qualification**
 
-### Automation
+AI-assisted business research · Lead qualification · Evidence-based results · Lead scoring · Confidence levels · Duplicate detection · Platform identification · CLI workflow
 
-* n8n
-* API integrations
-* Workflow automation
-* AI-powered workflows
-* Webhooks
-* Data pipelines
-* External tools
+> **Principle:** No fabricated leads. Evidence should support what the system returns.
+
+**Stack:** Python · AI · APIs · CLI
+
+🔗 [View Repo](https://github.com/mkx-hub/E-commerce-Lead-Generation)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Data Science
+#### 🏗️ What I Like Building
+Systems where AI **doesn't just generate text**, but:
 
-* Python
-* Data analysis
-* Statistics
-* Data visualization
-* Machine learning fundamentals
-* Data processing
+- Uses tools & APIs
+- Processes information
+- Makes structured decisions
+- Automates real-world workflows
+- Performs useful work
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### Software Engineering
-
-* Git
-* GitHub
-* Testing
-* CLI applications
-* Project architecture
-* Spec-driven development
-* Documentation
+#### 🎯 Current Focus
+- 🤖 **AI Agents** — tool use, state, MCP, orchestration
+- 🔁 **Automation** — n8n, webhooks, data pipelines
+- 📊 **Data Science** — Python, analysis, ML fundamentals
+- 🧪 **Testing** — verify everything I build
+- 🗺️ **Spec-Driven Dev** — understand before coding
 
 </td>
 </tr>
@@ -173,120 +151,7 @@ engineering_mindset:
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,git" />
-</p>
-
-### AI & Agent Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Currently exploring:**
-
-`OpenAI Agents SDK` • `Google ADK` • `MCP` • `n8n`
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### Data & Engineering
-
-`Python` • `Pytest` • `APIs` • `JSON` • `CLI Applications` • `Data Processing`
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Banking Session Management
-
-A Python-based session management system designed around security-focused requirements.
-
-**What I worked with:**
-
-* Python
-* Password hashing
-* Secure session tokens
-* AES-based encrypted session storage
-* Session expiration
-* Session limits
-* Account lockout
-* CLI interface
-* Automated testing
-* 100% test coverage
-
-🔗 **Repository:**
-https://github.com/mkx-hub/Banking-Session-Management
-
----
-
-### 🛒 E-commerce Lead Generation
-
-An AI-powered lead generation project for researching and qualifying e-commerce businesses using publicly available information.
-
-**Core ideas:**
-
-* AI-assisted business research
-* Lead qualification
-* Evidence-based results
-* Lead scoring
-* Confidence levels
-* Duplicate detection
-* E-commerce platform identification
-* AI automation opportunity analysis
-* CLI workflow
-
-**Principle:**
-
-> No fabricated leads. Evidence should support the information returned by the system.
-
-🔗 **Repository:**
-https://github.com/mkx-hub/E-commerce-Lead-Generation
-
----
-
-## 🏗️ What I Like Building
-
-```text
-                 ┌─────────────────────┐
-                 │       IDEA          │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   AI AGENT / APP    │
-                 └──────────┬──────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-        ┌─────────┐   ┌──────────┐   ┌──────────┐
-        │  TOOLS  │   │   DATA   │   │  APIs    │
-        └────┬────┘   └────┬─────┘   └────┬─────┘
-             │             │              │
-             └─────────────┼──────────────┘
-                           ▼
-                 ┌─────────────────────┐
-                 │     AUTOMATION      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │    REAL OUTPUT     │
-                 └─────────────────────┘
-```
-
-I'm interested in systems where AI doesn't just generate text, but **uses tools, processes information, makes structured decisions, and performs useful work**.
-
----
-
-## 📚 My Learning Roadmap
+### 🐍 My Learning Roadmap
 
 ```text
                     AI ENGINEERING
@@ -312,7 +177,7 @@ I'm interested in systems where AI doesn't just generate text, but **uses tools,
 
 ---
 
-## 🔬 Current Engineering Principles
+### 🔬 Current Engineering Principles
 
 I try to follow a few simple principles while learning:
 
@@ -331,103 +196,16 @@ I try to follow a few simple principles while learning:
 
 ---
 
-## 📊 GitHub Analytics
+### 🤝 Connect With Me — Let's Build Something Real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mkx-hub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkx-hub)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkx-hub&layout=compact&theme=transparent&hide_border=true" height="170"/>
+### 💡 Open to Collaboration
+**AI Agent Projects · Automation Workflows · Data Science · Open Source**
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mkx-hub&theme=transparent&hide_border=true" width="500"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mkx-hub/mkx-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🎯 What I'm Working Toward
-
-My long-term goal is to become a strong **AI/software engineer** who can:
-
-* Design useful AI agents
-* Build reliable automation systems
-* Work with APIs and external tools
-* Build data-driven applications
-* Understand software engineering fundamentals
-* Work with production-oriented AI systems
-* Turn real-world problems into software
-
-For now, I'm focused on **learning the fundamentals and shipping projects**.
-
----
-
-## 📈 Journey
-
-```text
-Student
-   │
-   ▼
-Learn Python
-   │
-   ▼
-Build Software
-   │
-   ▼
-Learn AI Agents
-   │
-   ▼
-Build AI Systems
-   │
-   ▼
-Learn Automation
-   │
-   ▼
-Build Workflows
-   │
-   ▼
-Study Data Science
-   │
-   ▼
-Become a Better Engineer
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with people who are learning, building, experimenting, and sharing knowledge around:
-
-**AI Agents • AI Automation • Data Science • Python • Open Source**
-
-<div align="center">
-
-<a href="https://github.com/mkx-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+> "Keep building. Keep learning. Never stop improving." — Muhammad Khan
 
 </div>
 
@@ -441,6 +219,8 @@ I'm interested in connecting with people who are learning, building, experimenti
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer wave banner saying Thanks for Visiting" />
+
+**© 2026 Muhammad Khan — Built with AI, code & curiosity 🇵🇰**
 
 </div>
