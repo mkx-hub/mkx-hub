@@ -1,54 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" role="img" font-family="Segoe UI, system-ui, sans-serif" font-style="normal">
-  <title>Muhammad Khan — Learner on the path to Agentic AI Engineering</title>
+  <title>Muhammad Khan — Student building toward AI &amp; Agent Engineering</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="0.5" stop-color="#141c36"/>
-      <stop offset="1" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#141c36"/>
     </linearGradient>
-    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.5" stop-color="#93c5fd"/>
-      <stop offset="1" stop-color="#ffffff"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#2563eb" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="45"/>
-    </filter>
-    <filter id="txtShadow">
-      <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
-    </filter>
   </defs>
 
   <style>
-    .orb1 { animation: drift1 16s ease-in-out infinite; }
-    .orb2 { animation: drift2 20s ease-in-out infinite; }
-    .dot  { animation: dotFloat 9s ease-in-out infinite; }
-    .rise { animation: rise 1.4s ease-out both; }
-    .rise2{ animation: rise 1.4s 0.35s ease-out both; }
-    .rise3{ animation: rise 1.4s 0.6s ease-out both; }
-    @keyframes drift1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(70px,-34px); } }
-    @keyframes drift2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-58px,44px); } }
-    @keyframes dotFloat { 0%,100% { transform: translate(0,0); opacity:.25; } 50% { transform: translate(0,-14px); opacity:.7; } }
-    @keyframes rise { from { opacity:0; transform: translateY(18px); } to { opacity:1; transform: translateY(0); } }
+    .fade { animation: rise 1.2s ease-out both; }
+    .fade2 { animation: rise 1.2s 0.25s ease-out both; }
+    .fade3 { animation: rise 1.2s 0.45s ease-out both; }
+    @keyframes rise { from { opacity:0; transform: translateY(14px); } to { opacity:1; transform: translateY(0); } }
   </style>
 
   <rect width="1100" height="250" fill="url(#bg)"/>
-  <circle class="orb1" cx="190" cy="120" r="190" fill="url(#glow1)" filter="url(#blur)"/>
-  <circle class="orb2" cx="920" cy="150" r="210" fill="url(#glow2)" filter="url(#blur)"/>
 
-  <circle class="dot" cx="120" cy="60" r="3" fill="#60a5fa"/>
-  <circle class="dot" cx="980" cy="70" r="3" fill="#a78bfa" style="animation-delay:.6s"/>
-  <circle class="dot" cx="540" cy="30" r="2.5" fill="#38bdf8" style="animation-delay:1.2s"/>
-
-  <text class="rise" x="550" y="120" text-anchor="middle" font-size="64" font-weight="700" fill="url(#titleGrad)" letter-spacing="2" filter="url(#txtShadow)">Muhammad Khan</text>
-  <text class="rise2" x="550" y="172" text-anchor="middle" font-size="28" font-weight="500" fill="#c7d2fe" letter-spacing="0.5">Learner on the path to Agentic AI Engineering</text>
-  <text class="rise3" x="550" y="212" text-anchor="middle" font-size="15" fill="#8ea0bd" letter-spacing="4">@mkx-hub</text>
+  <text class="fade" x="550" y="120" text-anchor="middle" font-size="60" font-weight="700" fill="#f8fafc" letter-spacing="1.5">Muhammad Khan</text>
+  <text class="fade2" x="550" y="174" text-anchor="middle" font-size="26" font-weight="500" fill="#93c5fd" letter-spacing="0.5">Student building toward AI &amp; Agent Engineering</text>
+  <text class="fade3" x="550" y="212" text-anchor="middle" font-size="16" fill="#8b98ad" letter-spacing="2">Python • AI Agents • Automation</text>
 </svg>
